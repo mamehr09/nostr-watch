@@ -398,7 +398,7 @@ relays:
 - wss://nostr-relay.app
 - wss://relay.badgr.space
 - wss://relay.nostr-relay.org
-- wss://nostr.simplex.icu
+- wss://simplex.icu
 - wss://ithurtswhenip.ee
 - wss://the.hodl.haus
 - wss://relay.vtuber.directory
